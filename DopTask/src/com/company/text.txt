@@ -1,0 +1,6 @@
+This
+  is some text.
+[center]
+  This  [size = 14] is  [/size]
+  some
+[b]centered[/b]text.[/center]
